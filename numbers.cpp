@@ -16,7 +16,7 @@ public:
  
     double getFirst() { return m_first; }
     double getSecond() { return m_second; }
-    //double getSum() { return m_first + m_second; }
+    double getSum() { return m_first + m_second; }
     //double getSubtractionFirstBySecond() { return m_first - m_second; }
     //double getSubtractionSecondByFirst() { return m_second - m_first; }
     //double getMultiplication() { return m_first * m_second; }
